@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 lab exercise",
   "main": "index.js",
+  "homepage": "https://hetp2508.github.io/comp2156-lab/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
